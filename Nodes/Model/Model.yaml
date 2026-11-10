@@ -1,2 +1,9 @@
 Name: Model
 Type: ModelCategoryFolder
+Children:
+- Name: testType
+  Id: g=75427e5cf2e8ab4a0a3b5542ccd9a5d5
+  Supertype: BaseObjectType
+  Children:
+  - Name: RuntimeNetLogic1
+    Type: NetLogic
