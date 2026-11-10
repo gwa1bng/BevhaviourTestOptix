@@ -1,2 +1,6 @@
 Name: Model
 Type: ModelCategoryFolder
+Children:
+- Name: test
+  Id: g=cab6718abdfc2620400b0f174c69fc96
+  Supertype: BaseObjectType
