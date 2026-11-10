@@ -12,4 +12,9 @@ ProjectFiles/NetSolution/bin
 ProjectFiles/NetSolution/obj
 ProjectFiles/NetSolution/Private
 ProjectFiles/NetSolution/*.references
+<<<<<<< HEAD
 ProjectFiles/UserDefinedModule.xml
+=======
+ProjectFiles/UserDefinedModule.xml
+ProjectFiles/NetSolution/.vscode/launch.json
+>>>>>>> origin/main

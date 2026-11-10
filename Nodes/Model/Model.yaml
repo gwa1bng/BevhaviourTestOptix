@@ -4,3 +4,9 @@ Children:
 - Name: test
   Id: g=cab6718abdfc2620400b0f174c69fc96
   Supertype: BaseObjectType
+- Name: testType
+  Id: g=75427e5cf2e8ab4a0a3b5542ccd9a5d5
+  Supertype: BaseObjectType
+  Children:
+  - Name: RuntimeNetLogic1
+    Type: NetLogic
